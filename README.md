@@ -1,5 +1,6 @@
 # LASTCALL
 
+Создание проекта описал по следущем пунктам  
 
 1. Спроектировал БД на бумаге
 2. Написал запросы на языке sql для создания таблиц https://github.com/Sufiyanov/LASTCALL/blob/main/createBD.sql
